@@ -5,3 +5,5 @@ target/
 deploy
 updates
 *.iml
+
+.vagrant
